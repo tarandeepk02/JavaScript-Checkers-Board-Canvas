@@ -28,7 +28,7 @@ This is a JavaScript-based checkers game board project. It visually represents a
 
 ## Screenshots
 
-<img width="591" alt="game" src="https://github.com/user-attachments/assets/197f12fd-57a7-4230-abc0-2d8862e6f092" />
+<img width="591" alt="game" src="https://raw.githubusercontent.com/tarandeepk02/JavaScript-Checkers-Board-Canvas/refs/heads/main/checker.png" />
 
 ## How to Run
 1. Clone the repo or download the ZIP:
